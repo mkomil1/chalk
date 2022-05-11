@@ -1,0 +1,5 @@
+1. validator +++
+2. npm i +++
+3. chalk +++
+4. Express
+5. EJS
